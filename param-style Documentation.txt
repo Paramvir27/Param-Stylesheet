@@ -1,0 +1,74 @@
+
+-----------------------------------------------------------
+
+1. Font Size
+    fs-1    means   1px
+    fs-100  means   100px
+
+    Available from 
+    fs-1, fs-2 .......  fs-100
+
+-----------------------------------------------------------
+
+2. Text Color
+    t-white means white text 
+    t-black means black text 
+
+    Available Colors
+    "orange",   "white",    "purple",   "green",    "red",
+    "blue",     "darkred",  "lime",     "black",    "royalblue",
+    "grey",     "light",    "yellow"
+
+-----------------------------------------------------------
+
+3. Background Color
+    bg-white means white Background 
+    bg-black means black Background 
+
+    Available Colors
+    "orange",   "white",    "purple",   "green",    "red",
+    "blue",     "darkred",  "lime",     "black",    "royalblue",
+    "grey",     "light",    "yellow"
+
+-----------------------------------------------------------
+
+4. Full Screen Height & Full Screen Width
+    h-full-screen means 100vh       (vh means viewport Height)
+    h-half-screen means  50vh       (vh means viewport Height)
+
+    w-full-screen means 100vw       (vw means viewport Width)
+    w-half-screen means  50vw       (vw means viewport Width)
+
+-----------------------------------------------------------
+
+5. Height Percentage Classes
+    **works only when Parent Container height is specified
+    **Example: 10% means 10/100 of Parent Container Height
+
+    h-1    means   1%  height 
+    h-100  means 100%  height
+
+    Available from
+    h-1, h-2 ............ h-100
+
+-----------------------------------------------------------
+
+6. Width Percentage Classes
+    **Example: 10% means 10/100 of Parent Container Width
+
+    w-1    means   1%  Width 
+    w-100  means 100%  Width
+
+    Available from
+    w-1, w-2 ............ w-100
+
+
+
+
+
+
+
+
+
+
+    
